@@ -7,3 +7,6 @@
 * another bullet
 
 # Is this a heading?
+## That was a heading
+### Another one!
+#### What does this do?
